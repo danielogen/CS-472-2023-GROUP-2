@@ -82,7 +82,7 @@ repo = 'scottyab/rootbeer'
 # repo = 'k9mail/k-9'
 # repo = 'mendhak/gpslogger'
 
-lstTokens = ["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"]
+lstTokens = ["xxxxxxxxxxxxxxx"]
 
 dictfiles = dict()
 countfiles(dictfiles, lstTokens, repo)
