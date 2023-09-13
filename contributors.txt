@@ -2,5 +2,8 @@
 # Names should be added to this file as:
 #     FirstName LastName
 
-Daniel Ogenrwot
+Daniel Ogenrwot ogenrwot@unlv.nevada.edu
 Caleb Wilson wilsoc30@unlv.nevada.edu
+Ryan Bryant bryanr2@unlv.nevada.edu
+Tarik Resimovic resimovi@unlv.nevada.edu
+
