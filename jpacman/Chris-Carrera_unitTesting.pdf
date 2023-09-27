@@ -1,0 +1,6 @@
+https://github.com/carrec-2/CS-472-2023-GROUP-2.git
+Task 2.1
+Task 3
+• The coverage results from JaCoCo are not like the results from IntelliJ. JaCoCo shows more results than IntelliJ does. JaCoCo uses colors to highlight different categories of the results found while IntelliJ does not.
+• The source code visualization from JaCoCo on uncovered branches was very helpful. JaCoCo highlights parts of the code in different colors to show you what was covered and what was not.
+• I prefer JaCoCo’s report visualization more than IntelliJ’s coverage window simply based of the fact that JaCoCo visualizes the coverage results better than IntelliJ does.
